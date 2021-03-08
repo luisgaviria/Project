@@ -186,7 +186,7 @@ h2 {
   max-width: 250px;
   grid-template-columns: repeat(auto-fill, minmax(425px, 1fr));
   flex-direction: column;
-  margin-left: 88px;
+  margin-left: 87px;
   margin-right: auto;
   display: flex;
   margin-bottom: 5rem;
