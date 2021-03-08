@@ -1,18 +1,14 @@
-This is a template site based on the picture provided as an example.
-
-I developed this app on Codesanbox. 
-
-You can run it either on Codesanbox(in a computer(not-mobile) navigate to https://codesandbox.io/s/muddy-rgb-6q0r1?file=/Readme) or by uploading it to your machine and running yarn install.
-
-The start command is npm start. 
-
-You can then visit localhost 3000 to see it online.
-
-Codesanbox will not run this site on a mobile device. You must run it on a computer with Codesanbox.
+This is a template site based on the picture provided as an example. 
 
 You can preview the site on a mobile device at https://bowst-project.herokuapp.com/
 
 You can also review the code at https://github.com/luisgaviria/Project-bowst
+
+You can run this app uploading the code to your machine and running yarn install.
+
+The start command is npm start. You can then visit localhost 3000 to see it online.
+
+
 
 
 
