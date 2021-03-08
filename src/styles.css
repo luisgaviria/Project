@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.NavbarItems {
+  background: rgb(54, 44, 241);
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  align-content: center;
+}
+.navbar-logo {
+  color: white;
+  justify-self: start;
+  margin-left: 20px;
+}
+.menu {
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-content: center;
+}
+.menu li {
+  list-style-type: none;
+}
+.nav-links {
+  color: white;
+  padding: 12px 18px;
+  text-decoration: none;
+}
+.nav-links:hover {
+  background: green;
+}
+.menu-icon {
+  display: none;
+}
