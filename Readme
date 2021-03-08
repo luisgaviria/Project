@@ -8,7 +8,7 @@ The start command is npm start.
 
 You can then visit localhost 3000 to see it online.
 
-Codesanbox will not run this site on a mobile device. You must run it on a computer on Codesanbox.
+Codesanbox will not run this site on a mobile device. You must run it on a computer with Codesanbox.
 
 You can preview the site on a mobile device at https://bowst-project.herokuapp.com/
 
