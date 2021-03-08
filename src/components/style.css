@@ -109,7 +109,8 @@ h2 {
 }
 
 .navbar {
-  box-shadow: 2px 2px 2px 2px #dddada;
+  background-color: white;
+  box-shadow: 1.8px 1.8px 1.8px 1.8px rgba(212, 214, 212, 0.5);
 }
 
 .app-frame {
@@ -118,26 +119,17 @@ h2 {
   background-size: 120vh 100vw;
   margin-left: auto;
   margin-right: auto;
-
   position: relative;
 }
 
-/* .navbar-link {
-  align-content: center;
-  background-position: center bottom;
-  transition: all 0.2s ease-out;
-} */
+
 
 .list-container {
   margin-left: auto;
-
   margin-right: auto;
-
   width: 100%;
   max-width: 370px;
   justify-content: space-around;
-  /* align-content: center; */
-
   background-color: white;
   margin-bottom: 10px;
   border-radius: 2%;
