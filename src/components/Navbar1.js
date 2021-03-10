@@ -6,7 +6,7 @@ import "./style.css";
 const Navbar1 = () => {
   return (
     <header>
-      <Navbar collapseOnSelect expand="md" bg="light" variant="light">
+      <Navbar className='navbar' collapseOnSelect expand="md" bg="light" variant="light">
         <Navbar.Brand>
           <a href="https://www.bowst.com/" className="navbar-brand">
             <img
